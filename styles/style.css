@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.contactos {
+    display: block;
+    background-color: #ffff;
+    width: 30%;
+    height: 149vh;
+    border: solid 1px #bec1bb;
+    align-items: start;
+}
+
+.maria {
+    display: flex;
+}
+
+.nombre {
+    margin: 20px 70px 0 0;
+    font-family: 'roboto';
+    font-weight: 500;
+    color: #1b1f21;
+}
+
+.estado {
+    margin: 40px 85px 0 -115px;
+    font-family: 'roboto';
+    font-weight: 300;
+    font-size: 12px;
+}
+
+.maria img {
+    margin: 20px;
+    width: 30px; 
+    border-radius: 50%;
+}
+
+.maria i {
+    margin: 30px 10px 0 80px;
+    
+}
+
+#nav {
+    margin: 30px 0 0 0;
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.botonNuevoChat {
+    padding: 15px 50px 15px 50px;
+    background-color: #a491d2;
+    color: #ffff;
+    border: none;
+}
+
+.chats {
+    display: flex;
+}
+
+.chats img {
+    margin: 20px;
+    width: 40px; 
+    border-radius: 50%;
+}
+
+.estado-1 {
+    margin: 38px 0 0 -125px;
+    font-family: 'roboto';
+    font-weight: 300;
+}
+
+.estado-2 {
+    margin: 38px 0 0 -145px;
+    font-family: 'roboto';
+    font-weight: 300;
+}
+
+.logo {
+    background-color:  rgb(232, 235, 228, 0.6);
+    width: 70%;
+    height: 100vh;
+    position: fixed;
+    right: 0;
+}
+
+.logo-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.logo-1 img {
+    padding-top: 15%;
+    width: 30%;
+    height: 30%;
+}
+
+.parrafos {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.parrafos h1 {
+    font-family: 'roboto';
+    font-weight: 500;
+    font-size: 45px;
+}
+
+.parrafos p {
+    font-family: 'roboto';
+    font-weight: 500;
+    font-size: 16px;
+}
