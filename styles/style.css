@@ -28,7 +28,7 @@
 }
 
 .estado {
-    margin: 40px 85px 0 -115px;
+    margin: 40px 100px 0 -115px;
     font-family: 'roboto';
     font-weight: 300;
     font-size: 12px;
@@ -116,6 +116,6 @@
 
 .parrafos p {
     font-family: 'roboto';
-    font-weight: 500;
+    font-weight: 300;
     font-size: 16px;
 }
